@@ -5,5 +5,11 @@ public class HelloWorld {
 
         System.out.println("Hello World, Maven");
 
+        System.out.println(mavenResponder());
+
+    }
+
+    public static String mavenResponder(){
+        return "Hi, nice to meet you";
     }
 }

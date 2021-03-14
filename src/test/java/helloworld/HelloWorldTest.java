@@ -9,4 +9,9 @@ public class HelloWorldTest {
     public void testHelloWorld() {
         assertEquals("Hello World", "Hello World");
     }
+
+    @Test
+    public void testMavenResponder(){
+        assertEquals(HelloWorld.mavenResponder(), "Hi, nice to meet you");
+    }
 }
