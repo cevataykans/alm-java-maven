@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/cevataykans/alm-java-maven/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/cevataykans/alm-java-maven/actions/workflows/maven.yml)
+
 # group-1-maven-java-demo/maven-demo
 
 
