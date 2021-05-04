@@ -9,6 +9,6 @@ public class HelloWorld {
     }
 
     public static String mavenResponder(){
-        return "Hi, nice to meet you";
+        return "Hi, nice to meet yo";
     }
 }
